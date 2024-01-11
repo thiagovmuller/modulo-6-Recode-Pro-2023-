@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\55489\\Desktop\\curso recode\\11-Módulo6-CSHARP dotnet\\modulo6api\\modulo6api\\modulo6api\\modulo6api.csproj": {}
+    "C:\\Users\\55489\\Desktop\\recode\\modulo6api\\api\\modulo6api\\modulo6api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\55489\\Desktop\\curso recode\\11-Módulo6-CSHARP dotnet\\modulo6api\\modulo6api\\modulo6api\\modulo6api.csproj": {
+    "C:\\Users\\55489\\Desktop\\recode\\modulo6api\\api\\modulo6api\\modulo6api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\55489\\Desktop\\curso recode\\11-Módulo6-CSHARP dotnet\\modulo6api\\modulo6api\\modulo6api\\modulo6api.csproj",
+        "projectUniqueName": "C:\\Users\\55489\\Desktop\\recode\\modulo6api\\api\\modulo6api\\modulo6api.csproj",
         "projectName": "modulo6api",
-        "projectPath": "C:\\Users\\55489\\Desktop\\curso recode\\11-Módulo6-CSHARP dotnet\\modulo6api\\modulo6api\\modulo6api\\modulo6api.csproj",
+        "projectPath": "C:\\Users\\55489\\Desktop\\recode\\modulo6api\\api\\modulo6api\\modulo6api.csproj",
         "packagesPath": "C:\\Users\\55489\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\55489\\Desktop\\curso recode\\11-Módulo6-CSHARP dotnet\\modulo6api\\modulo6api\\modulo6api\\obj\\",
+        "outputPath": "C:\\Users\\55489\\Desktop\\recode\\modulo6api\\api\\modulo6api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\55489\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yYT0ktsXdDoKJRa/2vFI+HHYNKelIIkNXr170PJr3fTLdPKv9sOt0iAU4p+TD/T4mOexlWi/4gvo3Q5F72UnEA==",
+  "dgSpecHash": "xuBMsH7LvLuSv23qaBYp28gDPjZOppznL6CKCBQCqGLa7X+w+/lBqliC4gnTvAiHIU3oVPxymgeEms+k2vb8fg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\55489\\Desktop\\curso recode\\11-Módulo6-CSHARP dotnet\\modulo6api\\modulo6api\\modulo6api\\modulo6api.csproj",
+  "projectFilePath": "C:\\Users\\55489\\Desktop\\recode\\modulo6api\\api\\modulo6api\\modulo6api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\55489\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\55489\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
