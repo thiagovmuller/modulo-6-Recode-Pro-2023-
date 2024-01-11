@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("modulo6api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+749f288aefe2ab3692d71a2f057e281f907afc5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dacbae68a90113974654e5bdbaea6712bdb3ca0")]
 [assembly: System.Reflection.AssemblyProductAttribute("modulo6api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("modulo6api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,6 @@
+https://tvm-umber.vercel.app/  - link vercel, deu erro com o front, localmente está funcionando
+
+http://tvm.somee.com/api/Clientes
+http://tvm.somee.com/api/Passagens
+http://tvm.somee.com/api/Compras
+
